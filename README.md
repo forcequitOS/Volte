@@ -28,3 +28,5 @@ Get it on **etaTV**: https://etatv.forcequit.cc
 Some posts on StackOverflow, helped me with the buttonless alert to use as a loading indicator for the UICache option
 
 Claude & ChatGPT, figured out some stuff like getting posix_spawn to work (In the sketchiest way)
+
+###### I'm currently aware that the buttons look way less saturated without Liquid Glass than with. I really don't know why. I blame Apple.
