@@ -1,0 +1,6 @@
+#!/bin/bash
+echo Running UICache...
+uicache -f -p /Applications/Volte.app
+echo Killing Processes...
+killall Volte
+echo Done!
