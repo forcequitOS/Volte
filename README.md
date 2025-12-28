@@ -1,6 +1,11 @@
 # Volte
 Jailbroken tvOS app with power options. Heavily inspired by [Dave1482's PowerApp.](https://github.com/Dave1482/PowerApp)
 
+As always, tested on:
+- tvOS 26.2 (23K54) on Apple TV 4K (1st generation)
+
+Volte *should* be compatible with down to tvOS 14, but I have no means of testing this. Your mileage may vary.
+
 This is a pretty simple app. Has a few massive buttons and a single option.
 
 **Power Off:** Turns off the Apple TV. This is a pretty redundant and pointless option, since it turns right back on immediately anyways. Didn't know that going into this though, oh well...
@@ -28,5 +33,8 @@ Get it on **etaTV**: https://etatv.forcequit.cc
 Some posts on StackOverflow, helped me with the buttonless alert to use as a loading indicator for the UICache option
 
 Claude & ChatGPT, figured out some stuff like getting posix_spawn to work (In the sketchiest way)
+<<<<<<< HEAD
 
 ###### I'm currently aware that the buttons look way less saturated without Liquid Glass than with. I really don't know why. I blame Apple.
+=======
+>>>>>>> 43bd4cdd39a8ec50e1a58b84864409d11ab4c144
