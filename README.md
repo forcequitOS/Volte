@@ -3,6 +3,7 @@ Jailbroken tvOS app with power options. Heavily inspired by [Dave1482's PowerApp
 
 As always, tested on:
 - tvOS 26.2 (23K54) on Apple TV 4K (1st generation)
+- tvOS 15.2 (19K53) on Apple TV HD / (4th generation)
 
 Volte *should* be compatible with down to tvOS 14, but I have no means of testing this. Your mileage may vary.
 
